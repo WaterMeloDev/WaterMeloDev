@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm WaterMeloDev</h1>
 <h3 align="center">A passionate discord bot developer from Minnesota</h3>
-<img align="right" alt="Coding" width="400" src="https://wallpaperaccess.com/full/869905.gif">
+<img align="right" alt="Coding" width="400" src="https://media.tenor.com/ZK4WH0e_lyAAAAAC/lofi-animation.gif">
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=watermelodev&label=Profile%20views&color=0e75b6&style=flat" alt="watermelodev" /> </p>
 
 <p align="left"> <a href="https://twitter.com/watermelodev" target="blank"><img src="https://img.shields.io/twitter/follow/watermelodev?logo=twitter&style=for-the-badge" alt="watermelodev" /></a> </p>
