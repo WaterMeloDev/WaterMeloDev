@@ -7,8 +7,6 @@
 
 - 🔭 I’m currently working on [TwitchChat-IRC](https://github.com/WaterMeloDev/TwitchChat-IRC)
 
-<!-- - 👯 I’m looking to collaborate on [Self-Hosting-Bot](https://github.com/WaterMeloDev/Self-Hosting-Bot)-->
-
 - 💬 Ask me about **python, discord, csharp, javascript**
 
 - 📫 How to reach me **2024ben.johnson@gmail.com**
