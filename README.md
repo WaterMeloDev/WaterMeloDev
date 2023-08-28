@@ -5,9 +5,9 @@
 
 <p align="left"> <a href="https://twitter.com/watermelodev" target="blank"><img src="https://img.shields.io/twitter/follow/watermelodev?logo=twitter&style=for-the-badge" alt="watermelodev" /></a> </p>
 
-- 🔭 I’m currently working on [RouletteBot](https://github.com/karmalover-ca/RouletteBot)
+- 🔭 I’m currently working on [TwitchChat-IRC](https://github.com/WaterMeloDev/TwitchChat-IRC)
 
-- 👯 I’m looking to collaborate on [Self-Hosting-Bot](https://github.com/WaterMeloDev/Self-Hosting-Bot)
+<!-- - 👯 I’m looking to collaborate on [Self-Hosting-Bot](https://github.com/WaterMeloDev/Self-Hosting-Bot)-->
 
 - 💬 Ask me about **python, discord, csharp, javascript**
 
