@@ -5,11 +5,11 @@
 
 <p align="left"> <a href="https://twitter.com/watermelodev" target="blank"><img src="https://img.shields.io/twitter/follow/watermelodev?logo=twitter&style=for-the-badge" alt="watermelodev" /></a> </p>
 
-- 🔭 I’m currently working on [TwitchChat-IRC](https://github.com/WaterMeloDev/TwitchChat-IRC)
+- 🔭 I’m currently working on [SMHSBot](https://github.com/WaterMeloDev/SMHSBot)
 
-- 💬 Ask me about **python, discord, csharp, javascript**
+- 💬 Ask me about **python, csharp, javascript**
 
-- 📫 How to reach me **2024ben.johnson@gmail.com**
+- 📫 How to reach me **watermelodev@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
