@@ -5,7 +5,7 @@
 
 <p align="left"> <a href="https://twitter.com/watermelodev" target="blank"><img src="https://img.shields.io/twitter/follow/watermelodev?logo=twitter&style=for-the-badge" alt="watermelodev" /></a> </p>
 
-- 🔭 I’m currently working on [SMHSBot](https://github.com/WaterMeloDev/SMHSBot)
+- 🔭 I’m currently working on [TheHive](https://github.com/WaterMeloDev/TheHive)
 
 - 💬 Ask me about **python, csharp, javascript**
 
